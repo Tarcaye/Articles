@@ -15,16 +15,31 @@ Dans l'imaginaire collectif, les développeurs sont souvent associés à des êt
 D'après notre expérience, la réalité est souvent toute autre : Vous ne travaillerez quasiment jamais seul dans votre coin, vous ferez surement partie de ce qu'on appelle... une équipe !
 En plus de la collaboration avec les autres membres de l'équipe, une partie de notre travail consiste à relire du code, guider les autres développeurs, etc.
 
-## Titre ? 
+## Pair 101 // Définition
 
 La collaboration, le mentoring et les revues de code peuvent prendre différentes forme selon les projets. L'une des solutions que nous avons choisi d'adopter, notamment en action de rétrospective, et qui semble connue et reconnue de nombreux développeurs est le binomage.
 
 ![Image of Pair](https://developer.atlassian.com/blog/2015/05/try-pair-programming/images/the-noob.jpg)
 
-
 Pourtant bien que la plupart d'entre nous semble ouvert à la mise en place de cette pratique, elle n'est souvent pas utilisée. Mais quels sont les freins qui gênent les développeurs pour faire du pair programming ?
 
-## This is not pair programming ! 
+### Notes
+
+J’ai jamais binomé, j’arrive à trouver tout seul, je comprend pas le besoin que toi tu as de
+binômer // Et si moi j’arrive pas à trouver tout seul // entre aide // Y toujours des choses à
+apprendre // moins de risuqe d’erreur // Qulité / Vitesse #mindset
+
+J’ai peur du jugement de mon pair // pas plus de jugement // sentiment réciproque // C’est
+pas du jugement #mindset
+
+On fait des tâches machinales où le binomage n’apporte rien à mon sens. // pénibilité de ta
+tache diminuée par ton binome // Quel est la frontière entre une tache facile //
+Potentiellement refactorer// trouver des bugs autour // Potentiellemnt plus d’erreurs
+d’inattention // automatisation 
+=> Quand binomer
+
+
+## This is not pair programming ! // Anti pattern
 (peut être mettre cette partie après)
 
 Le but de cet article n'est pas de vanter les mérites du travail en binôme mais plutôt de voir quels sont les contraintes et les blocages que l'ont peut rencontrer avec cette pratique et comment les contourner. // J'aime moyennement cette phrase, trouver comment reformuler
@@ -33,16 +48,30 @@ Le but de cet article n'est pas de vanter les mérites du travail en binôme mai
 
 Soyons clairs, binomer ce n'est pas juste se poser à 2 devant un poste, c'est une pratique qui s'apprend et qui nécessite du travail et des essais.
 
-## Etat d'esprit
+### Notes
+En plus tu n'as pas le même rythme de dev que moi // différence de connaissance, aisance,
+// Pour le plus expérimenté c’est le next step de savoir expliquer/faire comprendre/faire
+apprendre ; c’est le role des plus expérimenté des former acompagner // montée en
+compétences accompagnement
+// Blocage certains n’ont pas encore la pas la patience // la compétence pour faire de
+l’accompagnement #mindset
 
-![Mood](https://memegenerator.net/img/instances/500x/81131975/of-course-id-love-to-work-with-you-but-im-not-in-the-mood.jpg)
+Je vais plus vite tout seul // cf plus haut
 
-Au cours de nos discussions, on s'est rendu compte que ...
-On s’entend pas du tout / c’est pas mon pote #connard #mindset
-
+On ira plus vite chacun de notre côté // idée reçu ? expérience Sopra #performance
 
 
-# Notes
+Je dois tjrs me battre pour récupérer le clavier/je lâcherai pas le clavier // Timebox // ping
+pong // strong #outils #technique
+
+Dès que j'ai le clavier tu en profites pour dormir et tu déconnectés complètement // echanges
+de clavier rapides -> moins le temps de déconnecter // Ping pong // Strong autre solution
+#outils #technique
+
+## How To // Tricks
+
+### Notes
+
 C'est fatigant, je peux pas regarder mes mails, encore moins répondre aux whatsapp,
 regarder twitter…. // Pomodorro ; difficile de trouver un rythme à plusieurs ; se caler des
 pauses #outils #technique
@@ -63,19 +92,10 @@ serais plutôt aller dans celle ci // Explrer les pistes à tour de role (ecritu
 explore la piste de binome B et vice versa) // Se mettre d’accord sur la compréhension/
 cartographie #technique
 
-Je dois tjrs me battre pour récupérer le clavier/je lâcherai pas le clavier // Timebox // ping
-pong // strong #outils #technique
-
-Dès que j'ai le clavier tu en profites pour dormir et tu déconnectés complètement // echanges
-de clavier rapides -> moins le temps de déconnecter // Ping pong // Strong autre solution
-#outils #technique
-
 On s’entend pas du tout / c’est pas mon pote #connard #mindset
 
 Je/il développe sur Mac avec un ide obscur // Strong // Change d’environnement // Tous le
 même poste // Poste impersonnel #outils
-
-// Il code avec un clavier mécanique en qwerty // prévoir un 2e clavier #outils
 
 J’ai jamais binomé, j’ai pas de méthodologie pour le binomage. // Toute chose a un début /
 MeetUp / Articles #technique
@@ -85,9 +105,21 @@ que tu me demandes // Changer de role -> pingpong / Strong
 Si le pb c’est un noob + un expert alors ne pas donner la réponse mais plutôt le chemin pour
 trouver la solution #technique #mindset
 
-J’ai jamais binomé, j’arrive à trouver tout seul, je comprend pas le besoin que toi tu as de
-binômer // Et si moi j’arrive pas à trouver tout seul // entre aide // Y toujours des choses à
-apprendre // moins de risuqe d’erreur // Qulité / Vitesse #mindset
+Pingpong / Strong
+
+// Certains binome avec 2 PC en pushant pour etre multi OS/IDE
+
+Donner du feedback, dans les 2 sens // encourageant
+
+## Etat d'esprit // Mindset Quel est le bon mindset pour développer
+
+![Mood](https://memegenerator.net/img/instances/500x/81131975/of-course-id-love-to-work-with-you-but-im-not-in-the-mood.jpg)
+
+### Notes
+Au cours de nos discussions, on s'est rendu compte que ...
+On s’entend pas du tout / c’est pas mon pote #connard #mindset
+
+// Il code avec un clavier mécanique en qwerty // prévoir un 2e clavier #outils
 
 Je suis trop extrémiste craft et pas les autres du projet (genre le raise the bar dans le
 mauvais sens) // Raise the bar progressivement #mindset
@@ -99,12 +131,5 @@ J’aime travaillé en musique #mindset #connard
 
 On n’a pas les mêmes horaires // travail en équipe #mindset
 
-On fait des tâches machinales où le binomage n’apporte rien à mon sens. // pénibilité de ta
-tache diminuée par ton binome // Quel est la frontière entre une tache facile //
-Potentiellement refactorer// trouver des bugs autour // Potentiellemnt plus d’erreurs
-d’inattention // automatisation
-
-// On peut peut être essayer de regrouper les points par thèmes (genre comportement,
-adaptation, etc.)
-
-// Certains binome avec 2 PC en pushant pour etre multi OS/IDE
+# Conclusion
+Full time pair programming
