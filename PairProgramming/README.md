@@ -1,4 +1,4 @@
-# You'll never code alone
+``# You'll never code alone
 
 _Note sur l'inclusivité, on parle de développeurs mais n'hésitez pas à remplacer développeurs par développeur·e·s dans votre cerveau._
 
@@ -12,25 +12,34 @@ Dans l'imaginaire collectif, les développeurs sont souvent associés à des êt
 <!-- http://comedycentral.mtvnimages.com/images/shows/south-park/clip-thumbnails/season-10/1008/south-park-s10e08c05-the-slaughter-16x9.jpg -->
 <!-- https://i.ytimg.com/vi/2aDgH-_G4h0/maxresdefault.jpg -->
 
-D'après notre expérience, la réalité est souvent toute autre : Vous ne travaillerez quasiment jamais seul dans votre coin, vous ferez surement partie de ce qu'on appelle... une équipe !
+D'après notre expérience, la réalité est souvent toute autre : Vous ne travaillerez quasiment jamais seuls dans votre coin, vous ferez surement partie de ce qu'on appelle... une équipe !
 En plus de la collaboration avec les autres membres de l'équipe, une partie de notre travail consiste à relire du code, guider les autres développeurs, etc.
-
+**_````_**
 ## Pair 101 // Définition
 
-La collaboration, le mentoring et les revues de code peuvent prendre différentes forme selon les projets. L'une des solutions que nous avons choisi d'adopter, notamment en action de rétrospective, et qui semble connue et reconnue de nombreux développeurs est le binomage.
+La collaboration, le mentoring et les revues de code peuvent prendre différentes formes selon les projets. L'une des solutions que nous avons choisi d'adopter, notamment en action de rétrospective, et qui semble connue et reconnue de nombreux développeurs est le binomage.
 
 ![Image of Pair](https://developer.atlassian.com/blog/2015/05/try-pair-programming/images/the-noob.jpg)
 
-Pourtant bien que la plupart d'entre nous semble ouvert à la mise en place de cette pratique, elle n'est souvent pas utilisée. Mais quels sont les freins qui gênent les développeurs pour faire du pair programming ?
+Pourtant bien que la plupart d'entre nous semble ouvert à la mise en place de cette pratique, elle n'est souvent pas utilisée. Mais quels sont les freins au pair programming ?
 
 ### Notes
+J’ai jamais binomé...
+Je n'ai jamais binômé... je ne suis pas contre mais avec qui commencer... en attendant je reste comme ça. 
+Charge aux développeurs ayant déjà cette expérience de faire découvrir aux aspirants, et de leur laisser le temps 
+de se l'approprier... bien binomer ça se travaille. Privilégier un binomage progressif, d'abord sous forme de test... puis on verra.
 
-J’ai jamais binomé, j’arrive à trouver tout seul, je comprend pas le besoin que toi tu as de
-binômer // Et si moi j’arrive pas à trouver tout seul // entre aide // Y toujours des choses à
+J’arrive à trouver tout seul, je comprend pas le besoin que toi tu as de binômer 
+Le travail en équipe nécessite du partage et de la communication... bien communiquer n'est pas chose aisée. Une équipe
+est souvent composée de caractères différents, de certitudes, de forces/faiblesses, parfois d'un brin de manipulation.
+Un des buts qui pourrait être atteint est la fiertée du travail accompli en communauté et l'envie de le partager.
+
+Et si moi j’arrive pas à trouver tout seul ...// entre aide // Y toujours des choses à
 apprendre // moins de risuqe d’erreur // Qulité / Vitesse #mindset
 
-J’ai peur du jugement de mon pair // pas plus de jugement // sentiment réciproque // C’est
-pas du jugement #mindset
+J’ai peur du jugement de mon pair... mise à nu/ego (// pas plus de jugement // sentiment réciproque // C’est pas du jugement) #mindset
+Peur du jugement et envie d'apprendre... nous sommes pleins de contradictions. L'ouverture aux connaissances de son 
+binôme et l'humilité sur nos connaissances, deux réactions qui doivent nous permettre de bien vivre le travail à deux. 
 
 On fait des tâches machinales où le binomage n’apporte rien à mon sens. // pénibilité de ta
 tache diminuée par ton binome // Quel est la frontière entre une tache facile //
