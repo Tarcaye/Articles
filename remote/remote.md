@@ -1,3 +1,5 @@
+_Depuis environ un an, je fais parti d'une équipe qui pratique le télétravail quotidiennement, pour diverses raisons. 
+J'ai pensé vous faire part de notre façon de travailler en __remote__ car nous travaillons unauement en mob ou en pair_ 
 
 ##rythme dqns la journ2e
 Début de journée l'un avant l'autre
