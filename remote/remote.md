@@ -8,7 +8,6 @@ j'ai pensé partager avec vous notre façon de travailler à distance que nous p
 _Travaillant depuis un an en [pair](https://en.wikipedia.org/wiki/Pair_programming "Pair programming") ou en [mob programming](https://en.wikipedia.org/wiki/Mob_programming "Mob programming") quotidiennement à distance, 
 j'ai pensé partager avec vous notre façon de télétravailler._
 
-
 ![Image of Cartman](https://i.ytimg.com/vi/2aDgH-_G4h0/maxresdefault.jpg)
 
 _Disclaimer : Le but de cet article est de partager des pratiques, ce n'est pas un article sur les bénéfices du pair ou du mob en comparaison avec des développeurs travaillant seul._ 
