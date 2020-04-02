@@ -1,7 +1,13 @@
 # You'll never code alone
 
 _Depuis environ un an, je fais partie d'une équipe qui pratique le télétravail quotidiennement, pour diverses raisons. 
-J'ai pensé vous faire part de notre façon de travailler à distance car nous travaillons uniquement en [pair](https://en.wikipedia.org/wiki/Pair_programming "Pair programming") ou en [mob programming](https://en.wikipedia.org/wiki/Mob_programming "Mob programming")._
+Comme nous travaillons uniquement en [pair](https://en.wikipedia.org/wiki/Pair_programming "Pair programming") ou en [mob programming](https://en.wikipedia.org/wiki/Mob_programming "Mob programming"), 
+j'ai pensé partager avec vous notre façon de travailler à distance que nous pratiquons quotidiennement._
+######VS.
+
+_Travaillant depuis un an en [pair](https://en.wikipedia.org/wiki/Pair_programming "Pair programming") ou en [mob programming](https://en.wikipedia.org/wiki/Mob_programming "Mob programming") quotidiennement à distance, 
+j'ai pensé partager avec vous notre façon de télétravailler._
+
 
 ![Image of Cartman](https://i.ytimg.com/vi/2aDgH-_G4h0/maxresdefault.jpg)
 
@@ -74,3 +80,7 @@ N'hésitez pas à tester en faisant un [coding dojo](http://codingdojo.org/) ;
 https://www.remotemobprogramming.org/
 rpg mob
 https://github.com/willemlarsen/mobprogrammingrpg
+
+
+# TODO ?
+Parler des rituels de télétravail ? (s'habiller comme si on allait dans les bureaux etc.)
