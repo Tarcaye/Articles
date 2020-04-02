@@ -43,12 +43,16 @@ Cela permet d'éviter de montrer du code à une personne qui ne comprend pas et 
 
 
 ### Iteration
-Nous fonctionnons par itérations à durées fixes, chacun prend le clavier à tour de rôle. 
+Nous fonctionnons par itérations à durées fixes, chacun prend le clavier à tour de rôle.
 Si une personne monopolise le clavier pendant que les autres regardent, 
 il y a un risque que les autres ne se sentent plus concerné.e.s.
+On essaye de changer de personne au clavier toutes les 10 minutes par exemple. 
+La personne au clavier pousse son code sur l'outil de versionning tout au long de son tour et lorsqu'une nouvelle personne prend 
 
 ### Méthodologies
-strong pair / rpg mob
+En pair programming, on travaille plutôt en utilisant 2 rôles, driver et navigator, un peu à l'image du strong style pair programming :
+- Le driver, ou conducteur, est celui qui partage
+ strong pair / rpg mob
 
 ### Pause
 Pomodoro, pause réguliere, rythme soutenable
@@ -86,4 +90,4 @@ https://twitter.com/GuLhe_le_GuJ/status/1240067198946881540
 
 # TODO ?
 Parler des rituels de télétravail ? (s'habiller comme si on allait dans les bureaux etc.)
-
+on travaille en remote par défaut / meme sur site pour inclure au maximum les personnes à distance
