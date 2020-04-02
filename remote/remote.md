@@ -26,6 +26,7 @@ Quelque soit votre langage de programmation, la méthode avec laquelle nous trav
 - Un outils de gestion de version (git, svn, etc.),
 - Un outils de visio / partage d'écran,
 - Votre IDE préféré,
+- Un chronomètre,
 - Une connexion internet décente.
 
 On ne fait pas de partage de code sur des serveurs privés pour des raisons de sécurité  
@@ -33,9 +34,9 @@ On ne fait pas de partage de code sur des serveurs privés pour des raisons de s
 ### Rythme dans la journée
 Dans l'idéal, il semble important de respecter des horaires communes pour bien travailler à plusieurs sur le même sujet. Il est recommandé de faire 6 heures communes dans la journée.
 Lorsque les binômes ou les participants du mob se connaissent bien, rien n'empêche la première personne arrivée de commencer à travailler puis de faire relire les modifications lors de l'arrivée de nouveaux participant·e·s.
-Nous essayons de garder un rythme très proche de celui que nous pourrions avoir en 
+Nous essayons de garder un rythme très proche de celui que nous pourrions avoir en étant sur site. Pensez à vous habilez ;)
 
-!! TODO DELETE Concrètement le premier arrivé commence à travailler puis montre son code aux suivants lors de leurs arrivées. 
+!! ¿¿ TODO DELETE ?? Concrètement le premier arrivé commence à travailler puis montre son code aux suivants lors de leurs arrivées. 
 
 ### Exploration
 Pour la relecture ou l'exploration de code, nous avons remarqué qu'il était souvent plus pertinent de donner la main à un membre de l'équipe découvrant du code, plutôt qu'à celui ou celle qui le connait déjà.
