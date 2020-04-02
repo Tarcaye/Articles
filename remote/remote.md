@@ -10,30 +10,32 @@ j'ai pensé partager avec vous notre façon de télétravailler._
 
 ![Image of Cartman](https://i.ytimg.com/vi/2aDgH-_G4h0/maxresdefault.jpg)
 
-_Disclaimer : Le but de cet article est de partager des pratiques, ce n'est pas un article sur les bénéfices du pair ou du mob en comparaison avec des développeurs travaillant seul._ 
+_Disclaimer : Le but de cet article est de partager des pratiques, ce n'est pas un article sur les bénéfices du pair ou du mob programming en comparaison avec des développeurs travaillant seuls._ 
 
 ### Contexte
-Nous sommes une équipe de 5 avec une personne qui vit sur Bordeaux. 
-L'équipes est composée de profils assez différents :
+Nous sommes une équipe de 5 avec une personne vivant sur Bordeaux. 
+L'équipe est composée de profils assez différents :
 - 2 profils séniors plutôt orientés craft
 - 1 profil junior
 - 1 scrum master
 - 1 product owner
 
 ### Prérequis
-Quelque soit votre langage de programmation, la méthode avec laquelle nous travaillons devrait pouvoir s'adapter à vos besoins si vous disposez des outils suivants:
+Quelque soit votre langage de programmation, la méthode avec laquelle nous travaillons devrait pouvoir s'adapter à vos besoins si vous disposez à minima des outils suivants:
 
 - Un outils de gestion de version (git, svn, etc.),
 - Un outils de visio / partage d'écran,
 - Votre IDE préféré,
-- une connexion internet décente.
+- Une connexion internet décente.
 
-On ne fait pas de partage de code 
+On ne fait pas de partage de code sur des serveurs privés pour des raisons de sécurité  
 
 ### Rythme dans la journée
 Dans l'idéal, il semble important de respecter des horaires communes pour bien travailler à plusieurs sur le même sujet. Il est recommandé de faire 6 heures communes dans la journée.
 Lorsque les binômes ou les participants du mob se connaissent bien, rien n'empêche la première personne arrivée de commencer à travailler puis de faire relire les modifications lors de l'arrivée de nouveaux participant·e·s.
-!! TODO DELETE Concrêtement le premier arrivé commence à travailler puis montre son code aux suivants lors de leurs arrivées. 
+Nous essayons de garder un rythme très proche de celui que nous pourrions avoir en 
+
+!! TODO DELETE Concrètement le premier arrivé commence à travailler puis montre son code aux suivants lors de leurs arrivées. 
 
 ### Exploration
 Pour la relecture ou l'exploration de code, nous avons remarqué qu'il était souvent plus pertinent de donner la main à un membre de l'équipe découvrant du code, plutôt qu'à celui ou celle qui le connait déjà.
@@ -46,7 +48,7 @@ Si une personne monopolise le clavier pendant que les autres regardent,
 il y a un risque que les autres ne se sentent plus concerné.e.s.
 
 ### Méthodologies
-strong pqir / rpg mob
+strong pair / rpg mob
 
 ### Pause
 Pomodoro, pause réguliere, rythme soutenable
@@ -54,10 +56,10 @@ Pomodoro, pause réguliere, rythme soutenable
 ### Outils
 On 
 CI/CD
-visio, (teams, skype, chat hqngouts, jitsi, whereby)
+visio, (teams, skype, chat hangouts, jitsi, whereby)
 Versionning
-qlternqtives :
-pqrtqge de code en ligne ex sandbox, intelliJ 
+alternatives :
+partage de code en ligne ex sandbox, intelliJ 
 
 ### Communication
 
@@ -79,7 +81,9 @@ N'hésitez pas à tester en faisant un [coding dojo](http://codingdojo.org/) ;
 https://www.remotemobprogramming.org/
 rpg mob
 https://github.com/willemlarsen/mobprogrammingrpg
+https://twitter.com/GuLhe_le_GuJ/status/1240067198946881540
 
 
 # TODO ?
 Parler des rituels de télétravail ? (s'habiller comme si on allait dans les bureaux etc.)
+
