@@ -36,7 +36,7 @@ Cela permet d'éviter de montrer du code à une personne qui ne comprend pas et 
 ### Iteration
 Nous fonctionnons par itérations à durées fixes, chacun prend le clavier à tour de rôle. 
 Si une personne monopolise le clavier pendant que les autres regardent, 
-on risque que les autres ne se sentent plus concerné.e.s.
+il y a un risque que les autres ne se sentent plus concerné.e.s.
 
 ### Méthodologies
 strong pqir / rpg mob
