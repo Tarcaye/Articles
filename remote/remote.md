@@ -1,9 +1,9 @@
 _Depuis environ un an, je fais parti d'une équipe qui pratique le télétravail quotidiennement, pour diverses raisons. 
-J'ai pensé vous faire part de notre façon de travailler en remote car nous travaillons uniquement en mob ou en pair._
+J'ai pensé vous faire part de notre façon de travailler à distance car nous travaillons uniquement en [pair](https://en.wikipedia.org/wiki/Pair_programming "Pair programming") ou en [mob programming](https://en.wikipedia.org/wiki/Mob_programming "Mob programming")._
 
 ![Image of Cartman](https://i.ytimg.com/vi/2aDgH-_G4h0/maxresdefault.jpg)
 
-_Disclaimer : Le but de cet article est de partager des pratiques, ce n'est pas un article sur les bénéfices du pair ou du mob en comparaison avec des développeurs travaillant seul_ 
+_Disclaimer : Le but de cet article est de partager des pratiques, ce n'est pas un article sur les bénéfices du pair ou du mob en comparaison avec des développeurs travaillant seul._ 
 
 ### Contexte
 Nous sommes une équipe de 5 avec une personne qui vit sur Bordeaux. 
@@ -21,22 +21,31 @@ Quelque soit votre langage de programmation, la méthode avec laquelle nous trav
 - Votre IDE préféré,
 - une connexion internet décente.
 
+On ne fait pas de partage de code 
+
 ### Rythme dans la journée
 Dans l'idéal, il semble important de respecter des horaires communes pour bien travailler à plusieurs sur le même sujet. Il est recommandé de faire 6 heures communes dans la journée.
-Lorsque les binômes ou les participants du mob se connaissent bien, rien n'empêche la première personne arrivée à commencer à travailler puis à faire relire les modifications lors de l'arrivée de nouveaux participant·e·s.
-Concraitement le premier arrivé commence à travailler puis montre son code aux suivants lors de leurs arrivées. 
+Lorsque les binômes ou les participants du mob se connaissent bien, rien n'empêche la première personne arrivée de commencer à travailler puis de faire relire les modifications lors de l'arrivée de nouveaux participant·e·s.
+!! TODO DELETE Concrêtement le premier arrivé commence à travailler puis montre son code aux suivants lors de leurs arrivées. 
 
 ### Exploration
-Pour la relecture ou l'exploration de code, on a remarqué qu'il était souvent plus pertinent de donner la main à un membre de l'équipe decouvrant du code plutôt qu'à celui ou celle qui l'a le connait déjà.
+Pour la relecture ou l'exploration de code, nous avons remarqué qu'il était souvent plus pertinent de donner la main à un membre de l'équipe découvrant du code, plutôt qu'à celui ou celle qui le connait déjà.
 Cela permet d'éviter de montrer du code à une personne qui ne comprend pas et n'ose pas le dire, en tout cas, ça limite cet effet.
 
 
 ### Iteration
-Nous fonctionnons par itération à durée fixe.  -> pqs toujours le meme qui code pqs regqrder observer trop longtemps
+Nous fonctionnons par itérations à durées fixes, chacun prend le clavier à tour de rôle. 
+Si une personne monopolise le clavier pendant que les autres regardent, 
+on risque que les autres ne se sentent plus concerné.e.s.
 
+### Méthodologies
 strong pqir / rpg mob
 
+### Pause
+Pomodoro, pause réguliere, rythme soutenable
+
 ### Outils
+On 
 CI/CD
 visio, (teams, skype, chat hqngouts, jitsi, whereby)
 Versionning
@@ -48,14 +57,15 @@ pqrtqge de code en ligne ex sandbox, intelliJ
 * webcam always on
 donner demander du feedback, 
 
-### Pause
 
 ### Mise en pratique :
-- Katas
-- 4 participants
+N'hésitez pas à tester en faisant un [coding dojo](http://codingdojo.org/) ;
+- Katas 
+- Entre 2 et X participants
 - Un driver 
-- un nqvigqteur
+- un navigateur
 - un timekeeper
+
 
 
 #### Source :
