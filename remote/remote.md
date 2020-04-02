@@ -1,4 +1,6 @@
-_Depuis environ un an, je fais parti d'une équipe qui pratique le télétravail quotidiennement, pour diverses raisons. 
+# You'll never code alone
+
+_Depuis environ un an, je fais partie d'une équipe qui pratique le télétravail quotidiennement, pour diverses raisons. 
 J'ai pensé vous faire part de notre façon de travailler à distance car nous travaillons uniquement en [pair](https://en.wikipedia.org/wiki/Pair_programming "Pair programming") ou en [mob programming](https://en.wikipedia.org/wiki/Mob_programming "Mob programming")._
 
 ![Image of Cartman](https://i.ytimg.com/vi/2aDgH-_G4h0/maxresdefault.jpg)
