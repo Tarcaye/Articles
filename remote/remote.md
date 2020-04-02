@@ -13,6 +13,14 @@ L'équipes est composée de profils assez différents :
 - 1 scrum master
 - 1 product owner
 
+### Prérequis
+Quelque soit votre langage de programmation, la méthode avec laquelle nous travaillons devrait pouvoir s'adapter à vos besoins si vous disposez des outils suivants:
+
+- Un outils de gestion de version (git, svn, etc.),
+- Un outils de visio / partage d'écran,
+- Votre IDE préféré,
+- une connexion internet décente.
+
 ### Rythme dans la journée
 Dans l'idéal, il semble important de respecter des horaires communes pour bien travailler à plusieurs sur le même sujet. Il est recommandé de faire 6 heures communes dans la journée.
 Lorsque les binômes ou les participants du mob se connaissent bien, rien n'empêche la première personne arrivée à commencer à travailler puis à faire relire les modifications lors de l'arrivée de nouveaux participant·e·s.
@@ -24,7 +32,7 @@ Cela permet d'éviter de montrer du code à une personne qui ne comprend pas et 
 
 
 ### Iteration
-Nous fonctionnons par itération à durée fixe  -> pqs toujours le meme qui code pqs regqrder observer trop longtemps
+Nous fonctionnons par itération à durée fixe.  -> pqs toujours le meme qui code pqs regqrder observer trop longtemps
 
 strong pqir / rpg mob
 
@@ -32,7 +40,6 @@ strong pqir / rpg mob
 CI/CD
 visio, (teams, skype, chat hqngouts, jitsi, whereby)
 Versionning
-
 qlternqtives :
 pqrtqge de code en ligne ex sandbox, intelliJ 
 
