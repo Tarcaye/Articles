@@ -13,7 +13,7 @@ L'équipe est composée de profils assez différents :
 - 1 product owner
 
 ### Prérequis
-Quelque soit votre langage de programmation, la méthode avec laquelle nous travaillons devrait pouvoir s'adapter à vos besoins si vous disposez à minima des outils suivants:
+Quelque soit votre langage de programmation, la méthode avec laquelle nous travaillons peut s'adapter à vos besoins si vous disposez à minima des outils suivants:
 
 - Un outils de gestion de version (git, svn, etc.),
 - Un outils de visio / partage d'écran,
@@ -24,8 +24,8 @@ Quelque soit votre langage de programmation, la méthode avec laquelle nous trav
 On ne fait pas de partage de code sur des serveurs privés pour des raisons de sécurité  
 
 ### Rythme 
-(blabla rythme soutenable, travailler ensemble mais pas s'attendre) 
-En général les gens arrivent entre 8h00 et 9h30. 
+[XP](https://blog.engineering.publicissapient.fr/2008/01/10/scrum-ou-xp-scrum-et-xp/) prône un rythme soutenable, on essaye de travailler un maximum tous ensemble, sans avoir à respecter les mêmes horaires.  
+En général l'équipe arrive entre 8h00 et 9h30. 
 Le premier arrivé commence à bosser puis il est progressivement rejoint par le reste de l'équipe, mob. 
 On n'attend pas que tout le monde soit là pour commencer, 
 ce qui nous donne une plus grande amplitude horaire. 
@@ -36,20 +36,21 @@ j'ai aussi un rituel très simple qui consiste à me préparer ainsi qu'à m'hab
 comme si j'allais au travail, ça m'aide à lancer ma journée. 
 
 ### Communication
+La communication non verbal est un élément important lorsque l'on travaille en mob en pair programming.
 L'un des points importants de la communication à distance c'est d'activer sa webcam.
-En effet c'est plus compliqué de prendre la parole à distance, la webcam aide à la prise de parole. 
+En effet c'est plus compliqué de prendre la parole à distance, la webcam aide à la prise de parole et permet de faire passer plus d'informations que la voix seule. 
+
+Ça permet également de voir plus facilement si un des participants est en désaccord. 
+
+![homer](https://bigbiggityben1.files.wordpress.com/2015/09/cartoon-homer-looking-right-two.png)
+
 En plus, on est facilement isolé quand on bosse à la maison, 
 la caméra nous permet plus facilement d'entretenir de bonnes interactions sociales. 
-
-La communication passe par plusieurs canaux 
-même de faire passer certains message émotions. (mettre ça au début) 
-
-Ça permet de voir si un des participants est en désaccord. 
 
 ### Itération
 Concrètement, on code chacun son tour, pendant 8 à 12 minutes la plupart du temps en commitant de manière très régulière sur git. En pair il nous arrive de diminuer le temps de clavier à 4 voire 2 minutes pour s'obliger à faire des baby step. A la fin de chaque tour, on essaye d'avoir un build vert quit à reverter nos modifs pour ne pas dépasser le temps qui nous est alloué. 
 
-On utilise un timer synchronisé (mob time) qui joue de sympathique musique. 
+On utilise un timer synchronisé, [mob time](https://github.com/HadrienMP/mob-time), qui joue de sympathique musique. 
 
 On essaie d'être fluide, rapide de pas dépasser notre temps qui a revert au lieu de dépasser, et ça force les baby step. 
 
@@ -67,7 +68,6 @@ Nous essayons de garder un rythme très proche de celui que nous pourrions avoir
 ### Exploration
 Pour la relecture ou l'exploration de code, nous avons remarqué qu'il était souvent plus pertinent de donner la main à un membre de l'équipe découvrant du code, plutôt qu'à celui ou celle qui le connait déjà.
 Cela permet d'éviter de montrer du code à une personne qui ne comprend pas et n'ose pas le dire, en tout cas, ça limite cet effet.
-
 
 ### Iteration
 Nous fonctionnons par itérations à durées fixes, chacun prend le clavier à tour de rôle.
