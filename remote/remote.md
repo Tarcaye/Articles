@@ -83,7 +83,7 @@ Les méthodologies ne sont pas figées, n'hésitez pas à faire des micro rétro
 Essayez d'expérimenter de nouvelles façons de travailler, en journée ou en dojo, même si elles peuvent sembler un peu extrème :
 - Tour de mob d'1 à 2 minutes,
 - Driver muet,
-- Limited WIP,
+- [Limited WIP](https://plugins.jetbrains.com/plugin/7655-limited-wip),
 - [TCR](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
 
 Ces expérimentations vous permettrons de mieux trouver un consensus sur votre manière de travailler.
@@ -99,7 +99,7 @@ N'hésitez pas à tester en faisant un [coding dojo](http://codingdojo.org/) ;
 - un navigateur
 - un timekeeper
 
-Nous avons créé un [meetup](https://www.meetup.com/fr-FR/paris-mob-programming/) où on va essayer de faire des sessions de mob en remote.
+Nous avons créé un [meetup](https://www.meetup.com/fr-FR/paris-mob-programming/) avec [@HadrienMP](https://twitter.com/HadrienMP) où on va faire des sessions de mob en remote régulière.
 
 Je suis également disponible pour faire un BBL ou animer un kata à distance si ça vous intéresse.
 
