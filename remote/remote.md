@@ -21,7 +21,10 @@ Quelque soit votre langage de programmation, la méthode avec laquelle nous trav
 - Un chronomètre,
 - Une connexion internet décente.
 
-On ne fait pas de partage de code sur des serveurs privés pour des raisons de sécurité  
+On ne fait pas de partage de code sur des serveurs privés (sandbox, floobits intelliJ, etc.) pour des raisons de sécurité.
+L'avantage de notre méthode est que chacun peut utiliser son OS, son IDE, ses raccourcis, son type de clavier, etc.
+
+On utlise également un [script](https://github.com/HadrienMP/limbo) pour faire du push/pull automatique sur git.
 
 ### Rythme 
 [XP](https://blog.engineering.publicissapient.fr/2008/01/10/scrum-ou-xp-scrum-et-xp/) prône un rythme soutenable, on essaye de travailler un maximum tous ensemble, sans avoir à respecter les mêmes horaires.  
@@ -35,6 +38,10 @@ De mon côté, j'essaie de respecter les horaires de travail que j'aurai en éta
 j'ai aussi un rituel très simple qui consiste à me préparer ainsi qu'à m'habiller 
 comme si j'allais au travail, ça m'aide à lancer ma journée. 
 
+![](https://i.pinimg.com/736x/29/5b/94/295b9419b80fc1c2b8abc758dbcd9df2--work-shirts-funny-videos.jpg)
+
+N'oubliez pas non plus de faire des pauses régulières. On a facilement tendance à travailler sans relache. Vous pouvez par exemple utiliser la technique du [pomodorro](https://fr.wikipedia.org/wiki/Technique_Pomodoro) pour faire des pauses régulières. 
+
 ### Communication
 La communication non verbal est un élément important lorsque l'on travaille en mob en pair programming.
 L'un des points importants de la communication à distance c'est d'activer sa webcam.
@@ -47,56 +54,42 @@ En effet c'est plus compliqué de prendre la parole à distance, la webcam aide 
 En plus, on est facilement isolé quand on bosse à la maison, 
 la caméra nous permet plus facilement d'entretenir de bonnes interactions sociales. 
 
+(TODO : Photo meet up ou katas en ligne shodo)
+
+? Où mettre cette phrase ? developper un peu (c'est cool, pas cool, vous en pensez quoi les autres, etc.) ¿ Il est également très important de donner du feedback au reste de l'équipe ou d'en demander
+
 ### Itération
-Concrètement, on code chacun son tour, pendant 8 à 12 minutes la plupart du temps en commitant de manière très régulière sur git. En pair il nous arrive de diminuer le temps de clavier à 4 voire 2 minutes pour s'obliger à faire des baby step. A la fin de chaque tour, on essaye d'avoir un build vert quit à reverter nos modifs pour ne pas dépasser le temps qui nous est alloué. 
+Nous fonctionnons par itérations à durées fixes,chacun prend le clavier à tour de rôle en commitant de manière très régulière sur git.
+En mob, nos tours durent de 8 à 12 minutes mais il nous arrive de diminuer le temps de clavier à 4 voire 2 minutes pour s'obliger à faire des baby steps.
+Cela evite d'avoir une personne qui monopolise le clavier pendant que les autres regardent et ne se sentent plus concerné.e.s.
+A la fin de chaque tour, on essaye d'avoir un build vert quit à reverter nos modifs pour ne pas dépasser le temps qui nous est alloué. 
 
-On utilise un timer synchronisé, [mob time](https://github.com/HadrienMP/mob-time), qui joue de sympathique musique. 
+On utilise un timer synchronisé, [mob time](https://github.com/HadrienMP/mob-time), qui joue de sympathique musique ;)
 
-On essaie d'être fluide, rapide de pas dépasser notre temps qui a revert au lieu de dépasser, et ça force les baby step. 
+![](https://tse1.mm.bing.net/th?id=OIP.LsY1UAITtdneG7m-Z6RfOgEgDY&pid=Api) 
 
-Méthode :
-La personne qui code et partage son écran ne prend presque pas d'initiative, elle obéit au navigateur qui lui donne des instructions pour lui donner la direction dans laquelle aller. 
-Expliquer les avantages. 
-
-### Rythme dans la journée
-Dans l'idéal, il semble important de respecter des horaires communes pour bien travailler à plusieurs sur le même sujet. Il est recommandé de faire 6 heures communes dans la journée.
-Lorsque les binômes ou les participants du mob se connaissent bien, rien n'empêche la première personne arrivée de commencer à travailler puis de faire relire les modifications lors de l'arrivée de nouveaux participant·e·s.
-Nous essayons de garder un rythme très proche de celui que nous pourrions avoir en étant sur site. Pensez à vous habilez ;)
-
-!! ¿¿ TODO DELETE ?? Concrètement le premier arrivé commence à travailler puis montre son code aux suivants lors de leurs arrivées. 
-
-### Exploration
-Pour la relecture ou l'exploration de code, nous avons remarqué qu'il était souvent plus pertinent de donner la main à un membre de l'équipe découvrant du code, plutôt qu'à celui ou celle qui le connait déjà.
-Cela permet d'éviter de montrer du code à une personne qui ne comprend pas et n'ose pas le dire, en tout cas, ça limite cet effet.
-
-### Iteration
-Nous fonctionnons par itérations à durées fixes, chacun prend le clavier à tour de rôle.
-Si une personne monopolise le clavier pendant que les autres regardent, 
-il y a un risque que les autres ne se sentent plus concerné.e.s.
-On essaye de changer de personne au clavier toutes les 10 minutes par exemple. 
-La personne au clavier pousse son code sur l'outil de versionning tout au long de son tour et lorsqu'une nouvelle personne prend 
+On essaie d'être fluide, rapide de pas dépasser notre temps qui a revenir en arrière sur nos modifications au lieu de dépasser ou de casser le build, et ça force les petits incréments. 
 
 ### Méthodologies
+
 En pair programming, on travaille plutôt en utilisant 2 rôles, driver et navigator, un peu à l'image du strong style pair programming :
-- Le driver, ou conducteur, est celui qui partage
- strong pair / rpg mob
+- Le driver, ou conducteur :  est celui qui partage
+C'est la personne qui code et partage son écran. 
+Elle ne prend presque pas d'initiative et obéit aux instructions du navigateur.
+- Le navigateur :
+C'est la personne qui donne des instructions au driver, avec un niveau d'abstraction assez elevé pour lui donner la direction dans laquelle aller.
 
-### Pause
-Pomodoro, pause réguliere, rythme soutenable
+Les méthodologies ne sont pas figées, n'hésitez pas à faire des micro rétrospectives régulières dédiées uniquement au mob ou au pair pour améliorer votre fonctionnement.
+Essayez d'expérimenter de nouvelles façons de travailler, en journée ou en dojo, même si elles peuvent sembler un peu extrème :
+- Tour de mob d'1 à 2 minutes,
+- Driver muet,
+- Limited WIP,
+- [TCR](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
 
-### Outils
-On 
-CI/CD
-visio, (teams, skype, chat hangouts, jitsi, whereby)
-Versionning
-alternatives :
-partage de code en ligne ex sandbox, intelliJ 
+Ces expérimentations vous permettrons de mieux trouver un consensus sur votre manière de travailler.
 
-### Communication
-
-* webcam always on
-donner demander du feedback, 
-
+Pour la relecture ou l'exploration de code, il peut être pertinent de donner la main à un membre de l'équipe découvrant du code, plutôt qu'à celui ou celle qui le connait déjà.
+Cela permet d'éviter de montrer du code à une personne qui ne comprend pas et n'ose pas le dire, en tout cas, ça limite cet effet.
 
 ### Mise en pratique :
 N'hésitez pas à tester en faisant un [coding dojo](http://codingdojo.org/) ;
@@ -106,15 +99,17 @@ N'hésitez pas à tester en faisant un [coding dojo](http://codingdojo.org/) ;
 - un navigateur
 - un timekeeper
 
+Nous avons créé un [meetup](https://www.meetup.com/fr-FR/paris-mob-programming/) où on va essayer de faire des sessions de mob en remote.
 
+Je suis également disponible pour faire un BBL ou animer un kata à distance si ça vous intéresse.
 
 #### Source :
 https://www.remotemobprogramming.org/
-rpg mob
 https://github.com/willemlarsen/mobprogrammingrpg
 https://twitter.com/GuLhe_le_GuJ/status/1240067198946881540
+https://github.com/HadrienMP/limbo
+https://github.com/HadrienMP/mob-time
 
 
 # TODO ?
-Parler des rituels de télétravail ? (s'habiller comme si on allait dans les bureaux etc.)
 on travaille en remote par défaut / meme sur site pour inclure au maximum les personnes à distance
