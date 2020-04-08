@@ -1,6 +1,6 @@
 # You'll never code alone
 _Travaillant depuis un an en [pair](https://en.wikipedia.org/wiki/Pair_programming "Pair programming") ou en [mob programming](https://en.wikipedia.org/wiki/Mob_programming "Mob programming") quotidiennement à distance, 
-j'ai pensé partager avec vous notre façon de télétravailler._
+j'ai pensé utile de partager avec vous notre façon de télétravailler._
 
 ![Image of Cartman](https://i.ytimg.com/vi/2aDgH-_G4h0/maxresdefault.jpg)
 
@@ -9,7 +9,7 @@ Nous sommes une équipe de 5 avec une personne vivant sur Bordeaux.
 L'équipe est composée de profils assez différents :
 - 2 profils séniors plutôt orientés craft
 - 1 profil junior
-- 1 scrum master
+- 1 scrum master (est-ce que Aurélien va apprécier de pas être mis senior craft ?)
 - 1 product owner
 
 ### Prérequis
@@ -21,10 +21,12 @@ Quelque soit votre langage de programmation, la méthode avec laquelle nous trav
 - Un chronomètre,
 - Une connexion internet décente.
 
-On ne fait pas de partage de code sur des serveurs privés (sandbox, floobits intelliJ, etc.) pour des raisons de sécurité.
-L'avantage de notre méthode est que chacun peut utiliser son OS, son IDE, ses raccourcis, son type de clavier, etc.
+J'aurais mis sur la forme un truc un peu comme ça : Nous avons conidéré la possibilité de travailler avec des outils de partage de code style Sandbox pour Visual Studio, Floobits pour IntelliJ. Pour des raisons de sécurité, le code transitant par des serveurs tiers, nous n'avons pas pu. Et la technique alternative que nous avons trouvé me parait avoir des effets plus intéressants.  
 
-On utlise également un [script](https://github.com/HadrienMP/limbo) pour faire du push/pull automatique sur git.
+On ne fait pas de partage de code sur des serveurs privés (sandbox, floobits intelliJ, etc.) pour des raisons de sécurité.
+L'avantage de notre méthode est que chacun peut utiliser son OS, son IDE, ses raccourcis, son type de clavier, etc. __(du coup peut-être mentionner l'avantage des petits commits qui forcent les steps plus petits que la majorité des devs ont l'habitude ?)__
+
+Pour augmenter la vitesse de partage du code et la fréquence d'intégration continue, nous utilisons un [script](https://github.com/HadrienMP/limbo) pour faire du push/pull automatique sur git.
 
 ### Rythme 
 [XP](https://blog.engineering.publicissapient.fr/2008/01/10/scrum-ou-xp-scrum-et-xp/) prône un rythme soutenable, on essaye de travailler un maximum tous ensemble, sans avoir à respecter les mêmes horaires.  
@@ -43,11 +45,11 @@ comme si j'allais au travail, ça m'aide à lancer ma journée.
 N'oubliez pas non plus de faire des pauses régulières. On a facilement tendance à travailler sans relache. Vous pouvez par exemple utiliser la technique du [pomodorro](https://fr.wikipedia.org/wiki/Technique_Pomodoro) pour faire des pauses régulières. 
 
 ### Communication
-La communication non verbal est un élément important lorsque l'on travaille en mob en pair programming.
 L'un des points importants de la communication à distance c'est d'activer sa webcam.
+La communication non verbale est un élément important lorsque l'on travaille en mob en pair programming.
 En effet c'est plus compliqué de prendre la parole à distance, la webcam aide à la prise de parole et permet de faire passer plus d'informations que la voix seule. 
 
-Ça permet également de voir plus facilement si un des participants est en désaccord. 
+Ça permet également de voir plus facilement si un des participants est en désaccord. Ici j'aurais bien aimé quelques signaux que toi tu recherche en communication non verbale, pour le lecteur ça peut être des bonnes pistes d'amélioration. Ça ferait passer dans ton article un accent "coach" et pas juste description de notre manière de taffer.
 
 ![homer](https://bigbiggityben1.files.wordpress.com/2015/09/cartoon-homer-looking-right-two.png)
 
@@ -62,13 +64,13 @@ la caméra nous permet plus facilement d'entretenir de bonnes interactions socia
 Nous fonctionnons par itérations à durées fixes,chacun prend le clavier à tour de rôle en commitant de manière très régulière sur git.
 En mob, nos tours durent de 8 à 12 minutes mais il nous arrive de diminuer le temps de clavier à 4 voire 2 minutes pour s'obliger à faire des baby steps.
 Cela evite d'avoir une personne qui monopolise le clavier pendant que les autres regardent et ne se sentent plus concerné.e.s.
-A la fin de chaque tour, on essaye d'avoir un build vert quit à reverter nos modifs pour ne pas dépasser le temps qui nous est alloué. 
+A la fin de chaque tour, on essaye d'avoir un build vert. 
 
 On utilise un timer synchronisé, [mob time](https://github.com/HadrienMP/mob-time), qui joue de sympathique musique ;)
 
 ![](https://tse1.mm.bing.net/th?id=OIP.LsY1UAITtdneG7m-Z6RfOgEgDY&pid=Api) 
 
-On essaie d'être fluide, rapide de pas dépasser notre temps qui a revenir en arrière sur nos modifications au lieu de dépasser ou de casser le build, et ça force les petits incréments. 
+On essaie d'être fluide, rapide, de ne pas dépasser notre temps quitte a revenir en arrière sur nos modifications au lieu de dépasser ou de casser le build, et ça force les petits incréments. 
 
 ### Méthodologies
 
