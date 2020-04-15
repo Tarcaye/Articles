@@ -18,14 +18,14 @@ J’espère qu’après ça, You’ll never Code alone !
 ![Image of Cartman](https://i.ytimg.com/vi/2aDgH-_G4h0/maxresdefault.jpg)
 
 ### Contexte
-Nous sommes une équipe de 5 avec une personne vivant sur Bordeaux et 4 sur Paris. 
+Nous sommes une équipe de 5 avec une personne qui habite à Bordeaux et le reste à Paris. 
 L'équipe est composée de profils assez différents :
 - 2 profils séniors plutôt orientés craft
 - 1 profil junior
 - 1 scrum master
 - 1 product owner
 
-Les développeurs de l'équipe travaillaient initialement seul et organisait des séances communes de relecture de code. Lors de ces séances, il arrivait que les développeurs réécrivent toute une user story ensemble.
+Les développeurs de l'équipe travaillaient initialement seuls et organisaient des séances communes de relecture de code. Lors de ces séances, il arrivait que les développeurs réécrivent toute une user story ensemble.
 C'est à partir de là que l'équipe a décidé de commencer à travailler en mob.
 
 ### Prérequis
