@@ -29,10 +29,10 @@ Les développeurs de l'équipe travaillaient initialement seuls et organisaient 
 C'est à partir de là que l'équipe a décidé de commencer à travailler en mob.
 
 ### Prérequis
-Quelque soit votre langage de programmation, la méthode avec laquelle nous travaillons peut s'adapter à vos besoins si vous disposez à minima des outils suivants:
+Quel que soit votre langage de programmation, la méthode avec laquelle nous travaillons peut s'adapter à vos besoins si vous disposez a minima des outils suivants:
 
-- Un outils de gestion de version (git, svn, etc.),
-- Un outils de visio / partage d'écran,
+- Un outil de gestion de version (git, svn, etc.),
+- Un outil de visio / partage d'écran,
 - Votre IDE préféré,
 - Un chronomètre pour aider à partager le temps de clavier,
 - Une connexion internet décente.
@@ -40,8 +40,9 @@ Quelque soit votre langage de programmation, la méthode avec laquelle nous trav
 Nous avons considéré la possibilité de travailler avec des outils de partage de code 
 style Sandbox pour Visual Studio, Floobits pour IntelliJ. 
 Pour des raisons de sécurité, le code transitant par des serveurs tiers, nous n'avons pas pu. 
-Et la technique alternative que nous avons trouvé me parait avoir des effets plus intéressants : 
-chacun peut utiliser son OS, son IDE, ses raccourcis, son type de clavier, etc. Cette méthode force également les participants du mob a faire des baby steps et à committer très régulièrement sur git.
+Et la technique alternative que nous avons trouvée me paraît avoir des effets plus intéressants : 
+chacun peut utiliser son OS, son IDE, ses raccourcis, son type de clavier, etc. 
+Cette méthode force également les participants du mob à faire des babys step et à committer très régulièrement sur git.
 
 Pour augmenter la vitesse de partage du code et la fréquence d'intégration continue, nous utilisons un [script](https://github.com/HadrienMP/limbo) pour faire du push/pull automatique sur git.
 
