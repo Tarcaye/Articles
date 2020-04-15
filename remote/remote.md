@@ -71,13 +71,14 @@ En effet c'est plus compliqué de prendre la parole à distance, la webcam aide 
 
 ![homer](https://bigbiggityben1.files.wordpress.com/2015/09/cartoon-homer-looking-right-two.png)
 
+N'hésitez pas à demander du feedback au reste de l'équipe ou à donner, ça permet de clarifier la situation sur ce qui est entrain de pensé. 
+Vous pouvez facilement demander si tout le monde est ok avec ce que vous êtes en train de faire, demander l'avis de ceux qui s'expriment peu pour faciliter le dialogue.
+A l'inverse, n'hésitez pas à exprimer votre accord/désaccord avec une décision même si on ne vous demande pas explicitement votre avis. 
+
 En plus, on est facilement isolé quand on bosse à la maison, 
 la caméra nous permet plus facilement d'entretenir de bonnes interactions sociales. 
 
 (TODO : Photo meet up ou katas en ligne shodo)
-
-? Où mettre cette phrase ? developper un peu (c'est cool, pas cool, vous en pensez quoi les autres, etc.) ¿ 
-Il est également très important de donner du feedback au reste de l'équipe ou d'en demander
 
 ### Itération
 Nous fonctionnons par itérations à durées fixes,chacun prend le clavier à tour de rôle en commitant de manière très régulière sur git.
@@ -130,7 +131,3 @@ https://github.com/willemlarsen/mobprogrammingrpg
 https://twitter.com/GuLhe_le_GuJ/status/1240067198946881540
 https://github.com/HadrienMP/limbo
 https://github.com/HadrienMP/mob-time
-
-
-# TODO ?
-on travaille en remote par défaut / meme sur site pour inclure au maximum les personnes à distance
