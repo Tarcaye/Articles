@@ -9,10 +9,10 @@ Mais c’est cette dernière année que j’ai le plus perfectionné ma méthode
 et notamment en remote.
 
 Aujourd’hui, à niveau de qualité égale, 
-nous sommes au moins aussi véloce en mob qu'en pair ou en développant seuls.
+nous sommes au moins aussi véloces en mob qu'en pair ou en développant seuls.
 
 C’est pourquoi, par les temps qui courent, 
-j’ai eu envie de partager avec vous mes conseils de mob programing à distance. 
+j’ai eu envie de partager avec vous mes conseils de mob programming à distance. 
 J’espère qu’après ça, You’ll never Code alone ! 
 
 ![Image of Cartman](https://i.ytimg.com/vi/2aDgH-_G4h0/maxresdefault.jpg)
