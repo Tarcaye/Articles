@@ -85,10 +85,12 @@ la caméra nous permet plus facilement d'entretenir de bonnes interactions socia
 (TODO : Photo meet up ou katas en ligne shodo)
 
 ### Itération
-Nous fonctionnons par itérations à durées fixes,chacun prend le clavier à tour de rôle en commitant de manière très régulière sur git.
-En mob, nos tours durent de 8 à 12 minutes mais il nous arrive de diminuer le temps de clavier à 4 voire 2 minutes pour s'obliger à faire des baby steps.
-Cela evite d'avoir une personne qui monopolise le clavier pendant que les autres regardent et ne se sentent plus concerné.e.s.
-A la fin de chaque tour, on essaye d'avoir un build vert. 
+Nous fonctionnons par itérations à durées fixes, 
+chacun prend le clavier à tour de rôle en commitant de manière très régulière sur git.
+En mob, nos tours durent de 8 à 12 minutes mais il nous arrive de diminuer le temps de clavier à 4 voire 2 minutes 
+pour s'obliger à faire des baby steps.
+Cela évite d'avoir une personne qui monopolise le clavier pendant que les autres regardent et ne se sentent plus concernés.
+À la fin de chaque tour, on essaye d'avoir un build vert. 
 
 On utilise un timer synchronisé, [mob time](https://github.com/HadrienMP/mob-time), qui joue de sympathique musique ;)
 
