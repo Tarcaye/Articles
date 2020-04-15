@@ -52,7 +52,7 @@ En général l'équipe arrive entre 8h00 et 9h30.
 Le premier arrivé commence à bosser puis il est progressivement rejoint par le reste de l'équipe, mob. 
 On n'attend pas que tout le monde soit là pour commencer, 
 ce qui nous donne une plus grande amplitude horaire. 
-Lorsque qu'un nouveau membre rejoint le groupe, il suffit de lui montrer ce qui a pu être réalisé en son absence. 
+Lorsqu'un nouveau membre rejoint le groupe, il suffit de lui montrer ce qui a pu être réalisé en son absence. 
 
 De mon côté, j'essaie de respecter les horaires de travail que j'aurai en étant sur site.
 j'ai aussi un rituel très simple qui consiste à me préparer ainsi qu'à m'habiller 
@@ -60,7 +60,10 @@ comme si j'allais au travail, ça m'aide à lancer ma journée.
 
 ![](https://i.pinimg.com/736x/29/5b/94/295b9419b80fc1c2b8abc758dbcd9df2--work-shirts-funny-videos.jpg)
 
-N'oubliez pas non plus de prendre des pauses régulières. On a facilement tendance à travailler sans relache. Le mob peut continuer sans vous le temps d'une pause personnelle ou alors il peut être intéressant de convenir de pauses régulières tous ensemble. 
+N'oubliez pas non plus de prendre des pauses régulières. 
+On a facilement tendance à travailler sans relâche. 
+Le mob peut continuer sans vous le temps d'une pause personnelle 
+ou alors il peut être intéressant de convenir de pauses régulières tous ensemble. 
 Vous pouvez par exemple utiliser la technique du [pomodorro](https://fr.wikipedia.org/wiki/Technique_Pomodoro). 
 
 ### Communication
