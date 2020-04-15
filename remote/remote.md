@@ -18,7 +18,7 @@ J’espère qu’après ça, You’ll never Code alone !
 ![Image of Cartman](https://i.ytimg.com/vi/2aDgH-_G4h0/maxresdefault.jpg)
 
 ### Contexte
-Nous sommes une équipe de 5 avec une personne vivant sur Bordeaux. 
+Nous sommes une équipe de 5 avec une personne vivant sur Bordeaux et 4 sur Paris. 
 L'équipe est composée de profils assez différents :
 - 2 profils séniors plutôt orientés craft
 - 1 profil junior
