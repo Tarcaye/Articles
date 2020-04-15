@@ -86,7 +86,7 @@ Vous pouvez facilement demander si tout le monde est ok avec ce que vous êtes e
 De plus, on est facilement isolé quand on bosse à la maison, 
 la caméra nous permet plus facilement d'entretenir de bonnes interactions sociales. 
 
-(TODO : Photo meet up ou katas en ligne shodo)
+![Remote mob](./images/Image%20remote%20mob.png)
 
 ### Les rôles du mob
 
