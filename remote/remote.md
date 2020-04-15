@@ -100,23 +100,25 @@ On essaie d'être fluide, rapide, de ne pas dépasser notre temps quitte à reve
 
 ### Méthodologies
 
-En pair programming, on travaille plutôt en utilisant 2 rôles, driver et navigator, un peu à l'image du strong style pair programming :
-- Le driver, ou conducteur :  est celui qui partage
+En pair, on travaille plutôt en utilisant 2 rôles, driver et navigator, un peu à l'image du strong style pair programming :
+- Le driver, ou conducteur.
 C'est la personne qui code et partage son écran. 
 Elle ne prend presque pas d'initiative et obéit aux instructions du navigateur.
-- Le navigateur :
-C'est la personne qui donne des instructions au driver, avec un niveau d'abstraction assez elevé pour lui donner la direction dans laquelle aller.
+- Le navigateur.
+C'est la personne qui donne des instructions au driver, avec un niveau d'abstraction assez élevé pour lui donner la direction dans laquelle aller.
 
-Les méthodologies ne sont pas figées, n'hésitez pas à faire des micro rétrospectives régulières dédiées uniquement au mob ou au pair pour améliorer votre fonctionnement.
-Essayez d'expérimenter de nouvelles façons de travailler, en journée ou en dojo, même si elles peuvent sembler un peu extrème :
-- Tour de mob d'1 à 2 minutes,
+En mob, on garde les rôles précédents et les autres participants jouent le rôle de mobber et participent en donnant leurs avis au navigateur.
+
+Les méthodologies ne sont pas figées, n'hésitez pas à faire des micros rétrospectives régulières dédiées uniquement au mob ou au pair pour améliorer votre fonctionnement.
+Essayez d'expérimenter de nouvelles façons de travailler, en journée ou en dojo, même si elles peuvent sembler un peu extrêmes :
+- Tours de mob d'1 à 2 minutes,
 - Driver muet,
 - [Limited WIP](https://plugins.jetbrains.com/plugin/7655-limited-wip),
 - [TCR](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
 
 Ces expérimentations vous permettrons de mieux trouver un consensus sur votre manière de travailler.
 
-Pour la relecture ou l'exploration de code, il peut être pertinent de donner la main à un membre de l'équipe découvrant du code, plutôt qu'à celui ou celle qui le connait déjà.
+Pour la relecture ou l'exploration de code, il peut être pertinent de donner la main à un membre de l'équipe découvrant du code, plutôt qu'à celui ou celle qui le connaît déjà.
 Cela permet d'éviter de montrer du code à une personne qui ne comprend pas et n'ose pas le dire, en tout cas, ça limite cet effet.
 
 ### Mise en pratique :
