@@ -67,7 +67,7 @@ N'oubliez pas non plus de prendre des pauses régulières.
 On a facilement tendance à travailler sans relâche. 
 Le mob peut continuer sans vous le temps d'une pause personnelle 
 ou alors il peut être intéressant de convenir de pauses régulières tous ensemble. 
-Vous pouvez par exemple utiliser la technique du [pomodorro](https://fr.wikipedia.org/wiki/Technique_Pomodoro). 
+Vous pouvez par exemple utiliser la technique du [pomodoro](https://fr.wikipedia.org/wiki/Technique_Pomodoro). 
 
 ### La communication
 L'un des points importants de la communication à distance c'est d'activer sa webcam.
