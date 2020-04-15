@@ -68,16 +68,16 @@ Vous pouvez par exemple utiliser la technique du [pomodorro](https://fr.wikipedi
 
 ### Communication
 L'un des points importants de la communication à distance c'est d'activer sa webcam.
-La communication non verbal est un élément important lorsque l'on travaille en mob en pair programming.
+La communication non verbale est un élément important lorsque l'on travaille en mob ou en pair programming.
 En effet c'est plus compliqué de prendre la parole à distance, la webcam aide à la prise de parole et permet de faire passer plus d'informations que la voix seule. 
 
 Ça permet également de voir plus facilement si un des participants est en désaccord. Quelques signes peuvent en effet être facilement détectés : des soupirs, le silence, un regard fuyant, une mine déconfite, etc. 
 
 ![homer](https://bigbiggityben1.files.wordpress.com/2015/09/cartoon-homer-looking-right-two.png)
 
-N'hésitez pas à demander du feedback au reste de l'équipe ou à donner, ça permet de clarifier la situation sur ce qui est entrain de pensé. 
+N'hésitez pas à demander du feedback au reste de l'équipe ou à donner, ça permet de clarifier la situation sur ce qu'on est en train de produire. 
 Vous pouvez facilement demander si tout le monde est ok avec ce que vous êtes en train de faire, demander l'avis de ceux qui s'expriment peu pour faciliter le dialogue.
-A l'inverse, n'hésitez pas à exprimer votre accord/désaccord avec une décision même si on ne vous demande pas explicitement votre avis. 
+À l'inverse, n'hésitez pas à exprimer votre accord/désaccord avec une décision même si on ne vous demande pas explicitement votre avis. 
 
 En plus, on est facilement isolé quand on bosse à la maison, 
 la caméra nous permet plus facilement d'entretenir de bonnes interactions sociales. 
